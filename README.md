@@ -1,18 +1,15 @@
 # 📈 Time-Series Forecasting with Cryptocurrency Analytics Dashboard
 
-<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-</div>
+
 
 A powerful and interactive cryptocurrency analytics platform that leverages advanced time-series forecasting models (ARIMA, SARIMA, Prophet, and LSTM) to predict cryptocurrency prices. Built with Streamlit for a seamless user experience.
 
-<div align="center">
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-brightgreen)](https://time-series-analysis-cryptocurrency.streamlit.app/)
-</div>
-
 
 ---
 
