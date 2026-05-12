@@ -502,7 +502,7 @@ def main():
     selected_crypto = st.sidebar.selectbox(
         "Choose a cryptocurrency",
         crypto_names,
-        index=0,
+        index=2,
         help="Select which cryptocurrency to analyze"
     )
     
