@@ -25,7 +25,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 # PAGE CONFIGURATION
 # ============================================================================
 st.set_page_config(
-    page_title="Time-Series Forecasting with Cryptocurrency Analytics Dashboard",
+    page_title="ForecastWell - Cryptocurrency Forecasting Dashboard",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -485,7 +485,7 @@ def main():
     # Header with dynamic crypto count
     st.markdown(f"""
         <div class="crypto-header">
-            <h1 class="crypto-title"> 📈 TIME-SERIES FORECASTING WITH CRYPTOCURRENCY ANALYTICS DASHBOARD</h1>
+            <h1 class="crypto-title"> 📈 ForecastWell - Cryptocurrency Forecasting Dashboard</h1>
             <p class="crypto-subtitle">{len(crypto_files)} Cryptocurrencies Available | ARIMA • SARIMA • Prophet • LSTM</p>
         </div>
         """, unsafe_allow_html=True)
