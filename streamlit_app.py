@@ -1034,7 +1034,7 @@ def main():
     st.markdown(f"""
         <div style='text-align: center; padding: 1.5rem; background: rgba(15, 12, 41, 0.7); border-radius: 15px;'>
             <p style='color: #00f5ff; font-size: 1.2rem; margin: 0;'>
-                <strong>🚀 Time-Series Forecasting with Cryptocurrency Analytics Dashboard</strong>
+                <strong>🚀 Time-Series Forecasting with ForecastWell</strong>
             </p>
             <p style='color: rgba(255,255,255,0.6); font-size: 0.9rem; margin-top: 0.5rem;'>
                 {len(crypto_files)} Cryptos Available | ARIMA • SARIMA • Prophet • LSTM
